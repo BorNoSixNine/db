@@ -1,0 +1,4 @@
+{
+  watch:"https://localhost:5174"
+  web:"https://localhost:5173"
+}
