@@ -1,4 +1,4 @@
 {
-  "watch":"https://localhost:5174",
-  "web":"https://localhost:5173"
+  "watch":"http://localhost:5174",
+  "web":"http://localhost:5173"
 }
