@@ -4,7 +4,7 @@
     "type": "cricket",
     "status": "matching",
     "league": "T20 AFG VS BD",
-    "iframe" "https://google.com",
+    "iframe": "https://google.com",
     "team1": {
       "avatar": "https://img.freepik.com/free-photo/flag-bangladesh_1401-65.jpg",
       "name": "Bangladesh",
