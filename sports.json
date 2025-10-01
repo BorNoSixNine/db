@@ -1,1 +1,15 @@
-
+[
+  {
+    "id": "1",
+    "league": "Premier League",
+    "team1": {
+      "avatar": "https://example.com/team1-logo.png",
+      "name": "Manchester United",
+      "score": 2
+    },
+    "team2": {
+      "avatar": "https://example.com/team2-logo.png",
+      "name": "Liverpool",
+      "score": 1
+    }
+]
