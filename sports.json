@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "type":"cricket"
-    "status":"matching",
+    "type": "cricket",
+    "status": "matching",
     "league": "T20 AFG VS BD",
     "team1": {
       "avatar": "https://img.freepik.com/free-photo/flag-bangladesh_1401-65.jpg",
