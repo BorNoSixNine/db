@@ -1,16 +1,16 @@
 [
   {
     "id": "1",
-    "league": "Premier League",
+    "league": "T20 AFG VS BD",
     "team1": {
-      "avatar": "https://example.com/team1-logo.png",
-      "name": "Manchester United",
-      "score": 2
+      "avatar": "https://img.freepik.com/free-photo/flag-bangladesh_1401-65.jpg",
+      "name": "Bangladesh",
+      "score": 
     },
     "team2": {
-      "avatar": "https://example.com/team2-logo.png",
-      "name": "Liverpool",
-      "score": 1
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVGVxH89p6CnmXF--9L-QjkLEIP5AMs7fjg&s",
+      "name": "Afganistan",
+      "score": 
     }
   }
 ]
