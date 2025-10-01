@@ -2,7 +2,7 @@
   {
     "id": "1",
     "type": "cricket",
-    "status": "matching",
+    "status": "matchnotstarted",
     "league": "T20 AFG VS BD",
     "iframe": "https://google.com",
     "team1": {
