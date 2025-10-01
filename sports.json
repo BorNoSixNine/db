@@ -5,12 +5,12 @@
     "team1": {
       "avatar": "https://img.freepik.com/free-photo/flag-bangladesh_1401-65.jpg",
       "name": "Bangladesh",
-      "score": 
+      "score": null
     },
     "team2": {
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVGVxH89p6CnmXF--9L-QjkLEIP5AMs7fjg&s",
       "name": "Afganistan",
-      "score": 
+      "score": null
     }
   }
 ]
