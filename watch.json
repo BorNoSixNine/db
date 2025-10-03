@@ -1,4 +1,6 @@
 {
-  "watch":"https://pl.ogflixer.qzz.io",
-  "web":"https://ogflix.tr"
+  "watch": "https://pl.ogflixer.qzz.io",
+  "web": "https://ogflix.tr",
+  "player": "https://ogflixer.qzz.io",
+  "server": ["ENZOI", "VIDCLOUD"]
 }
